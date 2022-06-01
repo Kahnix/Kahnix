@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Kacper
+<img src="https://opengameart.org/sites/default/files/robot-idle.gif" width="40">
+</h2>
 
-<!--
-**Kahnix/Kahnix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">Software Developer</h4>
+<hr>
 
-Here are some ideas to get you started:
+-  🔭 I’m currently working as a React + Typescript Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning Cosmwasm, Framer Motion & the Framer ecosystem!
+- 💬 Ask me about: Linux Distros, Sustainable Technology and anything creative!
+- 🎓 Side Interests: logic, ethics and anything technical! 
+
+
+𝘛𝘩𝘦 𝘤𝘳𝘦𝘢𝘵𝘪𝘰𝘯 𝘰𝘧 𝘴𝘰𝘮𝘦𝘵𝘩𝘪𝘯𝘨 𝘯𝘦𝘸 𝘪𝘴 𝘯𝘰𝘵 𝘢𝘤𝘤𝘰𝘮𝘱𝘭𝘪𝘴𝘩𝘦𝘥 𝘣𝘺 𝘵𝘩𝘦 𝘪𝘯𝘵𝘦𝘭𝘭𝘦𝘤𝘵 𝘣𝘶𝘵 𝘣𝘺 𝘵𝘩𝘦 𝘱𝘭𝘢𝘺 𝘪𝘯𝘴𝘵𝘪𝘯𝘤𝘵 𝘢𝘤𝘵𝘪𝘯𝘨 𝘧𝘳𝘰𝘮 𝘪𝘯𝘯𝘦𝘳 𝘯𝘦𝘤𝘦𝘴𝘴𝘪𝘵𝘺. 𝘛𝘩𝘦 𝘤𝘳𝘦𝘢𝘵𝘪𝘷𝘦 𝘮𝘪𝘯𝘥 𝘱𝘭𝘢𝘺𝘴 𝘸𝘪𝘵𝘩 𝘵𝘩𝘦 𝘰𝘣𝘫𝘦𝘤𝘵𝘴 𝘪𝘵 𝘭𝘰𝘷𝘦𝘴..
