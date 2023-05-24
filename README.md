@@ -1,15 +1,49 @@
-<h1 align="center">Hi there, I'm Kacper
-<img src="https://opengameart.org/sites/default/files/robot-idle.gif" width="40">
+<h2 align="center">Hi there, I'm Kacper
 </h2>
 
-<h4 align="center">Software Developer</h4>
+<p>I'm currently a Full-Stack Software Developer. I'm a huge enthusiast for open source technologies and challenging myself by diving head-first into the bleeding-edge of the web ecosystem</p>
+
 <hr>
 
--  🔭 I’m currently working as a React + Typescript Developer
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 
-- 🌱 I’m currently learning ThreeJS, Framer Motion & the Framer ecosystem!
-- 💬 Ask me about: Linux, Sustainable Technology and anything creative!
+### Frameworks/Tools
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+<br>
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white)
+<br>
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+<br>
+![Tauri](https://img.shields.io/badge/Tauri-684D62?style=flat-square&logo=tauri&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### Architecture
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+
+### Design
+[![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)](https://www.framer.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
 
 
-𝘛𝘩𝘦 𝘤𝘳𝘦𝘢𝘵𝘪𝘰𝘯 𝘰𝘧 𝘴𝘰𝘮𝘦𝘵𝘩𝘪𝘯𝘨 𝘯𝘦𝘸 𝘪𝘴 𝘯𝘰𝘵 𝘢𝘤𝘤𝘰𝘮𝘱𝘭𝘪𝘴𝘩𝘦𝘥 𝘣𝘺 𝘵𝘩𝘦 𝘪𝘯𝘵𝘦𝘭𝘭𝘦𝘤𝘵 𝘣𝘶𝘵 𝘣𝘺 𝘵𝘩𝘦 𝘱𝘭𝘢𝘺 𝘪𝘯𝘴𝘵𝘪𝘯𝘤𝘵 𝘢𝘤𝘵𝘪𝘯𝘨 𝘧𝘳𝘰𝘮 𝘪𝘯𝘯𝘦𝘳 𝘯𝘦𝘤𝘦𝘴𝘴𝘪𝘵𝘺. 𝘛𝘩𝘦 𝘤𝘳𝘦𝘢𝘵𝘪𝘷𝘦 𝘮𝘪𝘯𝘥 𝘱𝘭𝘢𝘺𝘴 𝘸𝘪𝘵𝘩 𝘵𝘩𝘦 𝘰𝘣𝘫𝘦𝘤𝘵𝘴 𝘪𝘵 𝘭𝘰𝘷𝘦𝘴..
+### Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kacper%20Daniel-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kacperdaniel/)
+[![Email Me](https://img.shields.io/badge/Email-Me-D14836?style=flat-square&logo=email&logoColor=white)](mailto:your_email@example.com)
+
+
