@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Kacper
 </h2>
 
-<p>I currently work as a Full-Stack Software Developer in the UK. I'm a huge enthusiast for open source technologies and love challenging myself by diving head-first into the bleeding-edge of the web ecosystem</p>
+<p>I currently work as a Software Engineer. I'm a huge enthusiast for open source technologies and love challenging myself by diving head-first into the bleeding-edge of the web ecosystem</p>
 
 <hr>
 
